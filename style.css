@@ -33,3 +33,49 @@ color: #000000;
 .nav-link {
     color:darksalmon;
 }
+.about{
+    text-align: center;
+height: 450px;
+padding-top: 20px;
+border: 3px;
+background: rgba(250, 247, 224, 0.85);
+
+}
+h3{
+    position: absolute;
+   
+    
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    
+    line-height: 78px;
+    
+    color: #000000;
+}
+.info{
+    text-align: center;
+height: 300px;
+padding-top: 20px;
+
+background: rgba(250, 247, 224, 0.85);
+
+}
+.footer{
+    position: absolute;
+    width: 1500px;
+    height: 239px;
+    background: rgba(250, 247, 224, 0.85);
+}
+h5{
+    position: absolute;
+   
+    
+    font-family: 'Junge';
+    font-style: normal;
+    font-weight: 400;
+    
+    line-height: 78px;
+    
+    color: #000000;
+}
