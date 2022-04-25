@@ -79,3 +79,20 @@ h5{
     
     color: #000000;
 }
+.about1{
+    text-align: center;
+height: 600px;
+padding-top: 20px;
+border: 3px;
+background: rgba(250, 247, 224, 0.85);
+width: 1px;
+
+}
+.about2{
+    text-align: center;
+height: 450px;
+padding-top: 20px;
+border: 3px;
+background: rgba(250, 247, 224, 0.85);
+
+}
